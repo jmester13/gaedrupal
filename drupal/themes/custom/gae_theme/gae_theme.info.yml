@@ -1,4 +1,4 @@
-name: gae_theme
+name: Gae_Theme
 type: theme
 base theme: bartik
 description: 'Gae Drupal for My Website.'
@@ -6,8 +6,7 @@ package: Other
 core_version_requirement: ^8 || ^9
 
 libraries:
-  - gae_theme/global-components
-  - gae_theme/styles
+  - gae_theme/global-styling
   - gae_theme/jsPDF
   - gae_theme/browserOS
 

@@ -1,8 +1,8 @@
-global-components:
-  Version: VERSION
+global-styling:
+  Version: 1.x
   css:
-    component:
-      css/styles.css: {}
+    theme:
+      css/style.css: {}
   js:
       js/script.js: {}
       js/browserOS.js: {}
