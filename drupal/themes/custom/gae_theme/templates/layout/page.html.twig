@@ -61,10 +61,12 @@
     <a id="main-content" tabindex="-1"></a>{# link is in html.html.twig #}
 
     <div class="layout-content">
-      <div class="button-wrapper">
+      <div class="jspdf-wrapper">
         <a href="#jspdf" id="jspdf" class="jsPDF"> Export PDF of content below </a>
       </div>
+      <div id="content">
       {{ page.content }}
+      </div>
     </div>{# /.layout-content #}
 
     {% if page.sidebar_first %}
