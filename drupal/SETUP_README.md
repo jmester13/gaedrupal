@@ -1,0 +1,11 @@
+# General Development Setup
+- Visual Studio Code
+- Install other extensions you want...
+    - Prettier
+    - Auto Close Tag
+    - Drupal Snippets
+    - Drupal Twig
+    - ES Lint
+    - Intelli Sense
+    - Twig
+    - VS Code Icons
